@@ -1,4 +1,4 @@
-enum OrbitalPeriod {
+enum OrbitalRatio {
   earth = 1.0,
   mercury = 0.2408467,
   venus = 0.61519726,
@@ -9,8 +9,10 @@ enum OrbitalPeriod {
   uranus = 84.016846,
 }
 
-export function age(planet: string, ageInSeconds: number): number {
-  const earthOrbitalPeriodInSeconds = 31557600;
-  const planetsOrbitalPeriodInSeconds = earthOrbitalPeriodInSeconds * OrbitalPeriod[planet as keyof typeof OrbitalPeriod];
+type Planet = keyof typeof OrbitalRatio
+
+export function age(planet: Planet, ageInSeconds: number): number {
+  const earthOrbitalPeriodInSeconds = 31_557_600;
+  const planetsOrbitalPeriodInSeconds = earthOrbitalPeriodInSeconds * OrbitalRatio[planet];
   return Number(Number(ageInSeconds / planetsOrbitalPeriodInSeconds).toFixed(2));
 }

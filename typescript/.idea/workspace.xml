@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fc39d1e-0de3-48ce-9513-0ee4278d18e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/leap/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/babel.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/jest.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/leap.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/leap.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/babel.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/jest.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/resistor-color-trio.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/resistor-color-trio.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resistor-color-trio/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/babel.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/jest.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/two-fer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-fer/two-fer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2AzoRI0JKNAbnbzwd2gkit3qVZe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/resistor-color-trio/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/leap/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/two-fer/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager" selected="Jest.A leap year">
+    <configuration name="A leap year" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/leap/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/leap" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/leap/leap.test.ts" />
+      <test-names>
+        <test-name value="A leap year" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Resistor Colors" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/resistor-color-trio/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/resistor-color-trio" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/resistor-color-trio/resistor-color-trio.test.ts" />
+      <test-names>
+        <test-name value="Resistor Colors" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Resistor Colors.Yellow and violet and yellow" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/resistor-color-trio/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/resistor-color-trio" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/resistor-color-trio/resistor-color-trio.test.ts" />
+      <test-names>
+        <test-name value="Resistor Colors" />
+        <test-name value="Yellow and violet and yellow" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.A leap year" />
+        <item itemvalue="Jest.Resistor Colors" />
+        <item itemvalue="Jest.Resistor Colors.Yellow and violet and yellow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fc39d1e-0de3-48ce-9513-0ee4278d18e8" name="Changes" comment="" />
+      <created>1656021767116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656021767116</updated>
+      <workItem from="1656021769739" duration="4499000" />
+      <workItem from="1656061136538" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JavaScriptTestRunnerJest">
+        <watch expression="Math.pow(10,colorCodeMap.get(third))" language="TypeScript" />
+        <watch expression="(colorCodeMap.get(first) * 10 + colorCodeMap.get(second)) " language="TypeScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

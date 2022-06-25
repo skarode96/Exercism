@@ -13,7 +13,7 @@ export function hey(message: string): string {
   if(trimmedMsg === "")
     return "Fine. Be that way!"
   else if (hasLetters(trimmedMsg) && isYelling(trimmedMsg) && !isAskingQuestion(trimmedMsg))
-    return 'Whoa, chill out!';
+    return "Whoa, chill out!";
   else if (hasLetters(trimmedMsg) && isYelling(trimmedMsg) && isAskingQuestion(trimmedMsg))
     return "Calm down, I know what I'm doing!";
   else if (isAskingQuestion(trimmedMsg))
